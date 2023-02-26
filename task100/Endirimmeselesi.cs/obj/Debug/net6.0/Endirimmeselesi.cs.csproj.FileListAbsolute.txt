@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Endirimmeselesi.cs\Endirimmeselesi.cs\bin\Debug\net6.0\Endirimmeselesi.cs.exe
+C:\Users\User\source\repos\Endirimmeselesi.cs\Endirimmeselesi.cs\bin\Debug\net6.0\Endirimmeselesi.cs.deps.json
+C:\Users\User\source\repos\Endirimmeselesi.cs\Endirimmeselesi.cs\bin\Debug\net6.0\Endirimmeselesi.cs.runtimeconfig.json
+C:\Users\User\source\repos\Endirimmeselesi.cs\Endirimmeselesi.cs\bin\Debug\net6.0\Endirimmeselesi.cs.dll
+C:\Users\User\source\repos\Endirimmeselesi.cs\Endirimmeselesi.cs\bin\Debug\net6.0\Endirimmeselesi.cs.pdb
+C:\Users\User\source\repos\Endirimmeselesi.cs\Endirimmeselesi.cs\obj\Debug\net6.0\Endirimmeselesi.cs.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Endirimmeselesi.cs\Endirimmeselesi.cs\obj\Debug\net6.0\Endirimmeselesi.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Endirimmeselesi.cs\Endirimmeselesi.cs\obj\Debug\net6.0\Endirimmeselesi.cs.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Endirimmeselesi.cs\Endirimmeselesi.cs\obj\Debug\net6.0\Endirimmeselesi.cs.AssemblyInfo.cs
+C:\Users\User\source\repos\Endirimmeselesi.cs\Endirimmeselesi.cs\obj\Debug\net6.0\Endirimmeselesi.cs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Endirimmeselesi.cs\Endirimmeselesi.cs\obj\Debug\net6.0\Endirimmeselesi.cs.dll
+C:\Users\User\source\repos\Endirimmeselesi.cs\Endirimmeselesi.cs\obj\Debug\net6.0\refint\Endirimmeselesi.cs.dll
+C:\Users\User\source\repos\Endirimmeselesi.cs\Endirimmeselesi.cs\obj\Debug\net6.0\Endirimmeselesi.cs.pdb
+C:\Users\User\source\repos\Endirimmeselesi.cs\Endirimmeselesi.cs\obj\Debug\net6.0\Endirimmeselesi.cs.genruntimeconfig.cache
+C:\Users\User\source\repos\Endirimmeselesi.cs\Endirimmeselesi.cs\obj\Debug\net6.0\ref\Endirimmeselesi.cs.dll
